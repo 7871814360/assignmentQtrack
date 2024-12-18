@@ -1,0 +1,7 @@
+Open terminal and run the command
+1. npm install
+2. npm start
+To run backend(New Terminal)
+Ensure bacend mysql is turned on
+3.cd backend
+4.node server.js 
